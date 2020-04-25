@@ -38,7 +38,7 @@ We use IBM Watson to train our data and to enlist entities. Assange is used ther
 ## Tweepy
 Users need to create an app on Twitter and place their access keys in config.txt
 ## Assange
-`git clone https://github.com/kebab-mai-haddi/machine-learning.git`
+`git clone https://github.com/kebab-mai-haddi/assange.git`
 
 `cd machine-learning`
 
