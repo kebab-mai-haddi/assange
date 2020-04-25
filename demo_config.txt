@@ -1,0 +1,23 @@
+[TWITTER]
+consumerKey =  
+consumerSecret = 
+accessToken = 
+accessTokenSecret = 
+
+[DB_CONFIG]
+database = EPL
+fixture_collection = fixtures
+entities_collection = entities
+
+[WATSON]
+url = "https://gateway.watsonplatform.net/natural-language-understanding/api"
+username = 
+password = 
+
+[FIXTURE]
+collection = 
+trending_collection = 
+events_collection = 
+
+[HASHTAGS]
+hashtag_1 = 

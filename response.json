@@ -1,0 +1,80 @@
+{
+    "usage": {
+        "text_units": 1,
+        "text_characters": 112,
+        "features": 2
+    },
+    "language": "en",
+    "keywords": [
+        {
+            "text": "Le Instagram",
+            "sentiment": {
+                "score": 0,
+                "label": "neutral"
+            },
+            "relevance": 0.999902,
+            "emotion": {
+                "sadness": 0.429942,
+                "joy": 0.30185,
+                "fear": 0.070956,
+                "disgust": 0.1661,
+                "anger": 0.001294
+            },
+            "count": 1
+        },
+        {
+            "text": "WhatsApp",
+            "sentiment": {
+                "score": 0,
+                "label": "neutral"
+            },
+            "relevance": 0.729067,
+            "emotion": {
+                "sadness": 0.429942,
+                "joy": 0.30185,
+                "fear": 0.070956,
+                "disgust": 0.1661,
+                "anger": 0.001294
+            },
+            "count": 1
+        }
+    ],
+    "entities": [
+        {
+            "type": "TwitterHandle",
+            "text": "@vishal_saini_vs",
+            "sentiment": {
+                "score": 0,
+                "label": "neutral"
+            },
+            "relevance": 0.958279,
+            "emotion": {
+                "sadness": 0.2371,
+                "joy": 0.347966,
+                "fear": 0.017262,
+                "disgust": 0.529784,
+                "anger": 0.004101
+            },
+            "count": 1,
+            "confidence": 0.8
+        },
+        {
+            "type": "Hashtag",
+            "text": "#TwitterDown",
+            "sentiment": {
+                "score": 0,
+                "label": "neutral"
+            },
+            "relevance": 0.843015,
+            "emotion": {
+                "sadness": 0.2371,
+                "joy": 0.347966,
+                "fear": 0.017262,
+                "disgust": 0.529784,
+                "anger": 0.004101
+            },
+            "count": 1,
+            "confidence": 0.8
+        }
+    ]
+}
